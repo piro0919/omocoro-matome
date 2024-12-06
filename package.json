@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@prisma/client": "6.0.0",
+    "@prisma/client": "6.0.1",
     "@t3-oss/env-nextjs": "0.11.1",
-    "next": "15.0.3",
+    "next": "15.0.4",
     "react": "^18",
     "react-dom": "^18",
     "ress": "5.0.2",
