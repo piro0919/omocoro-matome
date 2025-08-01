@@ -59,7 +59,7 @@
   "name": "omocoro-matome",
   "overrides": {
     "eslint-plugin-typescript-sort-keys": {
-      "@typescript-eslint/parser": "8.36.0"
+      "@typescript-eslint/parser": "8.38.0"
     },
     "stylelint-css-modules-no-global-scoped-selector": {
       "stylelint": "16.21.1"
