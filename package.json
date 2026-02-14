@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@prisma/client": "7.3.0",
+    "@prisma/client": "7.4.0",
     "@t3-oss/env-nextjs": "0.13.10",
     "next": "15.5.12",
     "react": "^19.0.0",
